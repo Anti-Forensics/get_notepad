@@ -7,8 +7,4 @@ Just run the program on a windows 11 machine or integrate the class into your ow
 Example output:
 
 .\get_notepad.exe  
-    {"filename0000": null, "data0000": "asdfasdff", "filename0001": null, "data0001": "test23", "filename0002": null, "data0002": "test\\rtest\\rtest\\rtest4\\r\\rtest5  "}  
-
-Post:
-
-[Notepad Tab Cache Post](https://anti-forensics.com/blog/reading-the-notepad-tab-cache/)
+    {"filename0000": null, "data0000": "asdfasdff", "filename0001": null, "data0001": "test23", "filename0002": null, "data0002": "test\\rtest\\rtest\\rtest4\\r\\rtest5  "}
